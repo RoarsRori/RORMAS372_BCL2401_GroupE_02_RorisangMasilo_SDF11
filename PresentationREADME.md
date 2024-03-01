@@ -1,3 +1,6 @@
+## Link to Loom Video
+https://www.loom.com/share/d46dd4f38d554d72b7a92ebd81a4c21d?sid=d908281c-f97e-4e94-832d-59b02aab59bd
+
 # To set up your project:
 1. Clone the GitHub Starter Files.
 2. Begin with the provided repository
