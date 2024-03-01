@@ -85,7 +85,7 @@ Construct a section that showcases Cache Bank's impact through statistics(making
 1. **Animated Statistics Counters**: JavaScript is used to animate statistics counters upon scrolling into view, providing an engaging user experience.
 
 
-# Cache Bank Landing Page - Component 5: Contact and Footer Presentation Notes
+# Component 5: Contact and Footer Presentation Notes
  Finish your project with a contact section and a comprehensive footer, focusing on accessibility and functionality. Building trust and ensure compliance.
 
 ## Accessibility and Design of the Footer
